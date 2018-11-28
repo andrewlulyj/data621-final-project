@@ -1,0 +1,17 @@
+Life Expectancy Data.csv
+https://www.kaggle.com/kumarajarshi/life-expectancy-who
+
+number-of-deaths-by-risk-factor.csv
+https://ourworldindata.org/causes-of-death
+
+Life_expectancy_dataset.csv
+https://www.kaggle.com/amansaxena/lifeexpectancy
+
+Table11.xls
+https://www.cdc.gov/nchs/data/nvsr/nvsr54/nvsr54_14.pdf
+
+GHE2016_Input-Data.7z
+http://www.who.int/healthinfo/global_burden_disease/estimates/en/
+
+ucdp-prio-acd-181.csv
+http://ucdp.uu.se/downloads/#d3
